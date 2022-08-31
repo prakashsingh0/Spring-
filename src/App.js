@@ -21,17 +21,17 @@ function App() {
     },
     {
       sno: 2,
-      img:"./spring/download.jpg",
+      img:"https://i.pinimg.com/564x/15/b2/dc/15b2dc15002acfc89527472308b306ea.jpg",
       username: "user2"
     },
     {
       sno: 3,
-      img: "./download.jpg",
+      img: "https://i.pinimg.com/564x/15/b2/dc/15b2dc15002acfc89527472308b306ea.jpg",
       username: "user3"
     },
     {
       sno: 4,
-      img: "./download",
+      img: "https://i.pinimg.com/564x/15/b2/dc/15b2dc15002acfc89527472308b306ea.jpg",
       username: "user4"
     }
 
