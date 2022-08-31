@@ -1,0 +1,29 @@
+.userId{
+    margin: auto
+}
+#info{
+    display: flex;
+    margin-top: 3vh;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#bottom{
+    margin-top: 30vh;
+}
+
+#button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#btn1{
+    background-color: rgb(221, 226, 231);
+}
+.userId{
+    display: flex;
+    flex-direction: column;
+}
+/* #btn2{
+    margin-left: 25%;
+} */
